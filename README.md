@@ -7,4 +7,4 @@ Honestly, if you do decide to play this game... I'm sorry.
 
 
 # Demo
-
+![](https://github.com/Malik403/Python_Game/blob/main/Animation.gif)
